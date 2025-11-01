@@ -1,0 +1,29 @@
+[
+    {
+        "displayName": "Alice Johnson",
+        "firstName": "Alice",
+        "lastName": "Johnson",
+        "userPrincipalName": "alice.johnson@erabliereapi.onmicrosoft.com",
+        "usageLocation": "CA",
+        "licenseSkuPartNumber": "Microsoft_Intune_Suite",
+        "groups": ["Contoso Testers"]
+    },
+    {
+        "displayName": "Bob Smith",
+        "firstName": "Bob",
+        "lastName": "Smith",
+        "userPrincipalName": "bob.smith@erabliereapi.onmicrosoft.com",
+        "usageLocation": "CA",
+        "licenseSkuPartNumber": "Microsoft_Intune_Suite",
+        "groups": ["Contoso Testers", "Contoso Managers"]
+    },
+    {
+        "displayName": "Chris Green",
+        "firstName": "Chris",
+        "lastName": "Green",
+        "userPrincipalName": "chrisgreen@erabliereapi.onmicrosoft.com",
+        "usageLocation": "CA",
+        "licenseSkuPartNumber": "Microsoft_Intune_Suite",
+        "groups": ["Technicians"]
+    }
+]
