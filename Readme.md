@@ -65,3 +65,9 @@ You can also proceed manually by following the [Intune Documentation](https://le
 ## Register windows devices
 
 [Intune Documentation](https://learn.microsoft.com/en-us/intune/intune-service/enrollment/quickstart-enroll-windows-device)
+
+> Even if you got the window notification that the device is enrolled, it can take up to 15 minutes for the device to appear in the Intune portal.
+
+## Create a device compliance policy
+
+[Intune Documentation](https://learn.microsoft.com/en-us/intune/intune-service/protect/quickstart-set-password-length-android)
