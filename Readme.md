@@ -68,6 +68,21 @@ You can also proceed manually by following the [Intune Documentation](https://le
 
 > Even if you got the window notification that the device is enrolled, it can take up to 15 minutes for the device to appear in the Intune portal.
 
-## Create a device compliance policy
+## Create a device compliance policy for android
 
 [Intune Documentation](https://learn.microsoft.com/en-us/intune/intune-service/protect/quickstart-set-password-length-android)
+
+[Create a device compliance policy](https://learn.microsoft.com/en-us/intune/intune-service/protect/compliance-policy-create-android-for-work)
+
+## Send a notification to devices
+
+[Intune Documentation](https://learn.microsoft.com/en-us/intune/intune-service/protect/quickstart-send-notification)
+
+## Add and assign an app
+
+[Intune Documentation](https://learn.microsoft.com/en-us/intune/intune-service/apps/quickstart-add-assign-app)
+
+## Create and assign app protection policy
+
+[Intune Documentation](https://learn.microsoft.com/en-us/intune/intune-service/apps/quickstart-create-assign-app-policy)
+
